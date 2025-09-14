@@ -10,8 +10,8 @@ I'm a passionate data analyst and data enthusiast specializing in Python, Machin
 - **Tools:** Git, Power BI Desktop, Tableau
   
 ### 📂 Projects
-- 🔥 [Data Analytics Pipeline using python]([link](https://github.com/sejalag22/DataAnalytics_ProjectPipeline)) - A complete Data Analytics Pipeline built with Python that handles data extraction, cleaning, transformation, and visualization to generate actionable insights.
-- 📊 [Quiz app]([link](https://github.com/sejalag22/QUIZ-APP)) - A dynamic Quiz Application built with Django, allowing users to take quizzes, track their scores, and test their knowledge. Features include user authentication, question management, and a responsive interface for seamless interaction.
+- 🔥 [Data Analytics Pipeline using python](https://github.com/sejalag22/DataAnalytics_ProjectPipeline) - A complete Data Analytics Pipeline built with Python that handles data extraction, cleaning, transformation, and visualization to generate actionable insights.
+- 📊 [Quiz app](https://github.com/sejalag22/QUIZ-APP) - A dynamic Quiz Application built with Django, allowing users to take quizzes, track their scores, and test their knowledge. Features include user authentication, question management, and a responsive interface for seamless interaction.
 <!--
   
 - 🌐 [Website](link) - A personal or open-source project.
